@@ -5,6 +5,6 @@
 <h3>User Stories</h3>
 <ul>
   <li>User can click on list word, display will update printing the words</li>
-  <li>user an add new items, new items are numbered</li>
+  <li>user can add new items, new items are numbered</li>
   <li>User can click on new items to display</li>
 </ul>
